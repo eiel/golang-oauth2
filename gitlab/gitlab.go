@@ -6,7 +6,7 @@
 package gitlab // import "golang.org/x/oauth2/gitlab"
 
 import (
-	"golang.org/x/oauth2"
+	"github.com/eiel/golang-oauth2"
 )
 
 // Endpoint is GitLab's OAuth 2.0 endpoint.
